@@ -12,11 +12,8 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
 
-ex. Dominique Pizzie  
-
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. [@YCR17](https://github.com/YCR17)
 
 ## Version History
 
@@ -34,4 +31,3 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-## 
