@@ -1,33 +1,34 @@
+# XSS FILTER
 
+# BY YCR17
 
-## Help
+## Description
 
-Any advise for common problems or issues.
+Simple data filter on php
+
+(xss, sql inject and html inject
+
+## Example usage
 
 ```
 
-command to run if program contains helper info
+<?php
+
+include('filter_xss_ycr17_enc.php');
+
+echo filter_by_ycr17("<script> alert('hai'); </script> | SELECT * FROM or DELETE *");
+
+?>
 
 ```
 
+a
 ## Authors
 
 
 ex. [@YCR17](https://github.com/YCR17)
-
-## Version History
-
-* 0.2
-
-    * Various bug fixes and optimizations
-
-    * See [commit change]() or See [release history]()
-
-* 0.1
-
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
+a
+a
+a
+a
+a
