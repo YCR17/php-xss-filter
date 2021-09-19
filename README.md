@@ -1,31 +1,21 @@
-# PROJECT_YCR17
+# XSS F8LTER
 # BY YCR17
 
-Simple overview of use/purpose.
-
 ## Description
+Simple data filter on php
+(xss, sql inject and html inject
 
-An in-depth paragraph about your project and overview of use.
 
-## Getting Started
+## Example usage
+```
 
-### Dependencies
+<?php
+include('filter_xss_ycr17_enc.php');
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+echo filter_by_ycr17("<script> alert('hai'); </script> | SELECT * FROM or DELETE *");
 
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-
-* Step-by-step bullets
+?>
+```
 
 ```
 
