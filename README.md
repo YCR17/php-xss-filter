@@ -27,8 +27,4 @@ a
 
 
 ex. [@YCR17](https://github.com/YCR17)
-a
-a
-a
-a
-a
+
