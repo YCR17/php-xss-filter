@@ -22,7 +22,7 @@ echo filter_by_ycr17("<script> alert('hai'); </script> | SELECT * FROM or DELETE
 
 ```
 
-a
+
 ## Authors
 
 
