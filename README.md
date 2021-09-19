@@ -14,7 +14,7 @@ Simple data filter on php
 
 <?php
 
-include('filter_xss_ycr17_enc.php');
+include('filter_xss_ycr17.php');
 
 echo filter_by_ycr17("<script> alert('hai'); </script> | SELECT * FROM or DELETE *");
 
