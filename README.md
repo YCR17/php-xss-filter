@@ -6,7 +6,7 @@
 
 Simple data filter on php
 
-(xss, sql inject and html inject
+(xss, sql inject and html inject)
 
 ## Example usage
 
